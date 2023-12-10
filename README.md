@@ -4,7 +4,7 @@
 
 Отчёты доступны по ссылкам:
   
-  1.
+  1.https://drive.google.com/file/d/1BM94UvZRSnQPHgVjrORH7YOFdb20vaOR/view?usp=sharing
   2.
 
 # Лабораторная работа №1 - Знакомство с SPI
