@@ -6,7 +6,7 @@
   
   1.https://drive.google.com/file/d/1BM94UvZRSnQPHgVjrORH7YOFdb20vaOR/view?usp=sharing
   
-  2.
+  2.https://drive.google.com/file/d/1ggV7BJlKY50FrM14OajgCatzP2kFacVS/view?usp=sharing
 
 # Лабораторная работа №1 - Знакомство с SPI
 
@@ -170,4 +170,6 @@ P10 Светодиодная панель или P10 Led Board представ�
 
 
 
+Результат работы:
+https://drive.google.com/file/d/1QFM6ang3bwelZnacgG3ITa8YgUQOJIV4/view?usp=sharing
 
